@@ -1,0 +1,41 @@
+body {
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: center;
+    margin-right: 150px;
+    margin-left: 150px;
+
+}
+h1 {
+    font-weight: 900;
+    text-align: center;
+}
+h2 {
+    font-weight: 700;
+    text-align: center;
+}
+h6 {
+    text-decoration: underline;
+}
+ul {
+    padding: 0;
+    margin-bottom: 3%;
+}
+li {
+    list-style-type: none;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+.header {
+    margin-top: 5%;
+}
+.forecast {
+    margin-top: 5%;
+    text-align: center;
+    /*box-shadow: 1px 1px 1px 3px rgb(0, 0, 0, 0.1);
+    padding: 20px;*/
+}
+.card {
+    border: 0;
+}
